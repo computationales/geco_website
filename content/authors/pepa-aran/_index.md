@@ -1,5 +1,6 @@
 ---
 bio: []
+weight: 14
 email: "josefa.aran@giub.unibe.ch"
 highlight_name: false
 interests:
@@ -14,7 +15,7 @@ role: Scientific Programmer and Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: josefa.aran@giub.unibe.ch
+  link: mailto:josefa.aran@giub.unibe.ch
 - icon: github
   icon_pack: fab
   link: https://github.com/pepaaran
